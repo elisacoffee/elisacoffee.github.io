@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "elisacoffee.github.io"
+  title: "Elizaveta Kugaevskaia"
   navbar:
     left:
       - href: index.qmd

@@ -1,5 +1,5 @@
 ---
-title: "elisacoffee.github.io"
+title: "Elizaveta Kugaevskaia"
 ---
 
 This is a Quarto website.

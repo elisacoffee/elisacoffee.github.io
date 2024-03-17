@@ -1,7 +1,17 @@
 ---
 title: "Elizaveta Kugaevskaia"
+image: /static/img/profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/elisacoffee
 ---
 
-This is a Quarto website.
+I am a PhD student at [OSIPP](https://www.osipp.osaka-u.ac.jp/en/).<br>
+My research fields are .
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {style="text-align: right"}
+[Read More →](../about)
+:::

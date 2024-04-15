@@ -4,7 +4,7 @@ page-layout: full
 title-block-banner: true
 ---
 
-I am a PhD student in International Public Policy at [OSIPP](https://www.osipp.osaka-u.ac.jp/ja/) in Osaka, Japan.
+I am a Ph.D. student in International Public Policy at [OSIPP](https://www.osipp.osaka-u.ac.jp/ja/) in Osaka, Japan.
 
 My research fields are economic policy and economic history.
 

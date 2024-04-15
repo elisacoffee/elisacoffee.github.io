@@ -9,7 +9,7 @@ about:
       href: https://github.com/elisacoffee
 ---
 
-I am a PhD student at [OSIPP](https://www.osipp.osaka-u.ac.jp/en/).<br>
+I am a Ph.D. student at [OSIPP](https://www.osipp.osaka-u.ac.jp/en/).<br>
 My research fields are economic policy and economic history.
 
 ::: {style="text-align: right"}

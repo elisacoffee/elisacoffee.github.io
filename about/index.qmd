@@ -6,11 +6,8 @@ title-block-banner: true
 
 I am a PhD student in International Public Policy at [OSIPP](https://www.osipp.osaka-u.ac.jp/ja/) in Osaka, Japan.
 
-My research field is economic policy, broadly speaking, I am interested in questions like:
+My research fields are economic policy and economic history.
 
-- ?
-- ?
+{{< fa graduation-cap >}} M.A. International Public Policy  &#8729; OSIPP, Osaka University  &#8729;  2022
 
-{{< fa graduation-cap >}} Master in International Public Policy  &#8729; OSIPP, Osaka University  &#8729;  2022
-
-{{< fa graduation-cap >}} Bachelor in International Public Policy  &#8729; Law Faculty, Osaka University &#8729;  2020
+{{< fa graduation-cap >}} B.A. International Public Policy  &#8729; Law Faculty, Osaka University &#8729;  2020

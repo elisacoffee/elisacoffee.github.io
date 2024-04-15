@@ -10,7 +10,7 @@ about:
 ---
 
 I am a PhD student at [OSIPP](https://www.osipp.osaka-u.ac.jp/en/).<br>
-My research fields are .
+My research fields are economic policy and economic history.
 
 ::: {style="text-align: right"}
 [Read More →](../about)

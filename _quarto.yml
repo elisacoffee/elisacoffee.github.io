@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Elizaveta Kugaevskaia"
+  favicon: static/img/coffee-beans-filled-roast-brew.svg
   navbar:
     left:
       - href: index.qmd

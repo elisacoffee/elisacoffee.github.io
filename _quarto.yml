@@ -10,8 +10,8 @@ website:
         text: Home
       - href: about/index.qmd
         text: About
-      - href: https://elisacoffee.github.io/cv/cv.pdf
-        text: CV
+    #  - href: https://elisacoffee.github.io/cv/cv.pdf
+    #    text: CV
 
 format:
   html:

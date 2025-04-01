@@ -9,8 +9,8 @@ about:
       href: https://github.com/elisacoffee
 ---
 
-I am a Ph.D. student at [OSIPP](https://www.osipp.osaka-u.ac.jp/en/).<br>
-My research fields are political economy and economic history.
+I am an Assistant Professor at [Waseda University, Faculty of Political Science and Economics](https://www.waseda.jp/fpse/en/).<br>
+My research fields are political economy and experimental economics.
 
 ::: {style="text-align: right"}
 [Read More →](../about)

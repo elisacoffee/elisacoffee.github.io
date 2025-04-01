@@ -4,9 +4,9 @@ page-layout: full
 title-block-banner: true
 ---
 
-I am an Assistant Professor at [Waseda University, Faculty of Political Science and Economics](https://www.waseda.jp/fpse/en/) in Tokyo, Japan.
+I am an Assistant Professor at [Waseda University, Faculty of Political Science and Economics](https://www.waseda.jp/fpse/en/).
 
-My research fields are polical economy and experimental economics.
+My research fields are political economy and experimental economics.
 
 {{< fa graduation-cap >}} PhD International Public Policy  &#8729; OSIPP, Osaka University  &#8729;  2025
 

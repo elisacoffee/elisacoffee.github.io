@@ -4,10 +4,12 @@ page-layout: full
 title-block-banner: true
 ---
 
-I am a Ph.D. student in International Public Policy at [OSIPP](https://www.osipp.osaka-u.ac.jp/ja/) in Osaka, Japan.
+I am an Assistant Professor at [Waseda University, Faculty of Political Science and Economics](https://www.waseda.jp/fpse/en/) in Tokyo, Japan.
 
-My research fields are polical economy and economic history.
+My research fields are polical economy and experimental economics.
 
-{{< fa graduation-cap >}} M.A. International Public Policy  &#8729; OSIPP, Osaka University  &#8729;  2022
+{{< fa graduation-cap >}} PhD International Public Policy  &#8729; OSIPP, Osaka University  &#8729;  2025
 
-{{< fa graduation-cap >}} B.A. International Public Policy  &#8729; Law Faculty, Osaka University &#8729;  2020
+{{< fa graduation-cap >}} MA International Public Policy  &#8729; OSIPP, Osaka University  &#8729;  2022
+
+{{< fa graduation-cap >}} BA International Public Policy  &#8729; Law Faculty, Osaka University &#8729;  2020
